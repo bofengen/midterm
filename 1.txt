@@ -6,3 +6,4 @@ test rm --cached
 add more
 
 add from new_feature branch
+add from new_feature branch2
