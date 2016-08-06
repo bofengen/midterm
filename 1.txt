@@ -1,2 +1,4 @@
 
 hello me
+
+test rm --cached
