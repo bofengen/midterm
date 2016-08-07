@@ -2,6 +2,7 @@ A
 B
 D
 F
+C
 hello me
 
 test rm --cached
