@@ -1,6 +1,7 @@
 A
 B
 C
+E
 hello me
 
 test rm --cached
