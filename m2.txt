@@ -1,2 +1,3 @@
 edited from feature1
 edited from master
+edited from feature2
